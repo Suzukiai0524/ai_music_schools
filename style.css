@@ -127,7 +127,7 @@ header{
 }
 
 #home{
-  background-image:url(../images/home_flute.jpg);
+  background-image:url(images/home_flute.jpg);
   min-height:100vh;
 
 }
@@ -139,7 +139,7 @@ header{
 /* NEWS */
 
 #news{
-  background-image:url(../images/news-bg.jpg);
+  background-image:url(images/news-bg.jpg);
   height:270px;
   margin-bottom:40px;
 }
@@ -232,7 +232,7 @@ article p{
 /* menu */
 
 #menu{
-  background-image:url(../images/menu-bg.jpg);
+  background-image:url(images/menu-bg.jpg);
   min-height:100vh;
 }
 
@@ -328,7 +328,7 @@ iframe{
 /* PROFILE */
 
 #profile{
-  background-image:url(../images/main-bg.jpg);
+  background-image:url(images/main-bg.jpg);
   height:270px;
   margin-bottom:40px;
 }
